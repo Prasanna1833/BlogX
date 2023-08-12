@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "Avengers",
+      "author": "Ironman",
+      "body": "\"I am iron man\"",
+      "id": 1
+    },
+    {
+      "title": "today's exam",
+      "author": "lord",
+      "body": "today's xm was ok,it almost came from the previous papers",
+      "id": 2
+    }
+  ]
+}
